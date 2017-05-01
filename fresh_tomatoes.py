@@ -114,6 +114,7 @@ main_page_content = '''
     </div>
     <div class="container">
       {movie_tiles}
+      </div>
     </div>
   </body>
 </html>
