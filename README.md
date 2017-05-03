@@ -1,4 +1,4 @@
-#"Movie Trailer Website" 
+# "Movie Trailer Website" 
 "Project Overview:"
 This is an application using object-orentied python that is acessible via a web browswer.
 The codes created a data structure to store a list of my favorite movies, including box art imagery and a movie trailer URL. The codes generates a static web page allowing visitors to browse my favorite 9 movies and watch the trailers.
