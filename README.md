@@ -8,7 +8,7 @@ The "fresh_tomatoes.py" help generate a website that displays these movies, it p
 
 # Installation/Download
 Clone the github repository and run the application on python.
-[Link to install Python-] (https://www.python.org/ "Python")
+[Link to install Python-](https://www.python.org/ "Python")
 
 # Lauanch the website
 To launch the website:
