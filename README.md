@@ -1,4 +1,4 @@
-"Movie Trailer Website"-H1
+## "Movie Trailer Website" 
 
 Project Overview:
 This is an application using object-orentied python that is acessible via a web browswer.
