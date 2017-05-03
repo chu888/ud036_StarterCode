@@ -64,6 +64,6 @@ fresh_tomatoes.open_movies_page(movies)
 The fresh_tomatoes.py module calls the open_movies_page, which is an argument that list and
 creates an HTML file which will display 9 of my favorite movies.
 This list of movies is what the open_movies_page() function needs as input in order to build the HTML file, 
-so I can display your website.
+so I can display the website.
 """
 
