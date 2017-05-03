@@ -7,7 +7,7 @@ The "entertainment_center.py" created 9 instances to represent my favorite movie
 
 # Installation/Download
 Clone the github repository and run the application on python.
-<br/> Link to install Python [Python](https://www.python.org/ "Python")
+<br/> Link to install- [Python](https://www.python.org/ "Python")
 
 # Lauanch the website
 To launch the website:
